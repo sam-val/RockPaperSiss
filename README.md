@@ -1,1 +1,1 @@
-rock paper siss
+Rock Paper Scissors;
