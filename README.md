@@ -1,4 +1,4 @@
-## Rock Paper Scissors in more than one language
+## Rock, Paper, Scissors in various languages
 
 ## C#:
 Running in terminal...
